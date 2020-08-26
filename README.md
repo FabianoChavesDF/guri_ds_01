@@ -8,7 +8,7 @@
 <sub>*Student Python & Data Scientist* at Sigmoidal</sub>
 
 
-**Background in:** Python, Machine Learning.
+**Background in:** Cobol, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fabianochavesdf)
