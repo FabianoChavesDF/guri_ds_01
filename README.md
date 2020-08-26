@@ -14,6 +14,8 @@
 * [LinkedIn](https://www.linkedin.com/in/fabianochavesdf)
 
 
-## Projetos Futuros:
+## Links Futuros:
 * [Blog]
 * [Medium](https://www.medium.com)
+
+## Projetos Futuros:
